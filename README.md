@@ -16,6 +16,3 @@ A simple Pomodoro timer web app built using HTML, CSS, and JavaScript.
 - HTML
 - CSS
 - JavaScript
-
-## Live Demo
-[Run the Pomodoro Timer](#)
